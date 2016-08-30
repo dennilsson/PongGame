@@ -119,7 +119,7 @@
       </LinkStatus>
     </Link>
     <PostBuildEvent>
-      <Command>copy $(SolutionDir)\..\external_libraries\SDL2-2.0.4\lib\x86\SDL2.dll $(SolutionDir)\..\build\$(Configuration) &amp;&amp; copy $(SolutionDir)\..\external_libraries\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll $(SolutionDir)\..\build\$(Configuration)</Command>
+      <Command>copy $(SolutionDir)\..\external_libraries\SDL2-2.0.4\lib\x86\SDL2.dll $(SolutionDir)\..\build\$(Configuration)</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>Copy the DLL</Message>

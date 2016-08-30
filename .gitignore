@@ -1,0 +1,8 @@
+build/
+temp/
+vc/
+.vs/
+*.sdf
+*.vcxproj.user
+*.opendb
+*.VC.db

@@ -6,3 +6,5 @@ vc/
 *.vcxproj.user
 *.opendb
 *.VC.db
+*.obj
+*.pdb

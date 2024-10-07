@@ -2,8 +2,8 @@
 
 #include <SDL.h>
 
-#include "graphics.h"
-#include "globals.h"
+#include "Graphics.h"
+#include "Globals.h"
 #include "GameObject.h"
 
 const int PADDLE_HEIGHT = 120;
